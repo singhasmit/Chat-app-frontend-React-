@@ -15,16 +15,8 @@ A responsive and feature-rich chat application template built with React, Materi
 
 ## Preview
 
-![Home Page](./public/img1.png)
-![Chat feed](./public/img2.png)
-![User Settings](./public/img4.png)
-![User feed](./public/img3.png)
 
-![](./public/img5.png)
-![](./public/img6.png)
-![](./public/img7.png)
-![](./public/img8.png)
-![](./public/img9.png)
+
 
 ## Installation
 
